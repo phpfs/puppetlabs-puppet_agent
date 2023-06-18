@@ -6,6 +6,7 @@
 [![Modules Status](https://github.com/puppetlabs/puppetlabs-puppet_agent/workflows/Unit%20Tests%20with%20released%20Puppet%20gem/badge.svg?branch=main)](https://github.com/puppetlabs/puppetlabs-puppet_agent/actions)
 [![Modules Status](https://github.com/puppetlabs/puppetlabs-puppet_agent/workflows/Task%20Acceptance%20Tests/badge.svg?branch=main)](https://github.com/puppetlabs/puppetlabs-puppet_agent/actions)
 
+## Fix for stdlib >=9.0.0 - does NOT work with Puppet Enterprise!
 
 #### Table of Contents
 - [puppet_agent](#puppet_agent)
